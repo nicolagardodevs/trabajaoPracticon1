@@ -6,6 +6,3 @@ class Animal:
 
     def get_nombre(self):
         return self.__nombre
-
-    def set_nombre(self, nombre):
-        self.nombre = nombre
