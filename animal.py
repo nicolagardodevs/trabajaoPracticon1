@@ -1,5 +1,5 @@
 class Animal:
-    self.__nombre = ""
+    __nombre = ""
     raza = ""
     edad = 0
     peso = 0
